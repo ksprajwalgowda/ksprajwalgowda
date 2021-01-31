@@ -17,7 +17,6 @@ Skills: JS / HTML / CSS / BOOTSTRAP / DJANGO / MYSQL / PYTHON / JAVA / C++ / C
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksprajwalgowda)](https://github.com/ksprajwalgowda)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ksprajwalgowda)](https://github.com/ksprajwalgowda?tab=repositories)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ksprajwalgowda)  
