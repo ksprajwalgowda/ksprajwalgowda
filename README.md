@@ -5,7 +5,7 @@
 
 This is KS Prajwal, a passionate front-end, and back-end developer, who is in love with python and is ready to work on any project in python
 
-Skills: JS / HTML / CSS / BOOTSTRAP / DJANGO / MYSQL / PYTHON / JAVA / C++ / C
+Skills: JS / HTML / CSS / BOOTSTRAP / DJANGO / MYSQL / PYTHON / JAVA / C++ / C / PHP / JSP / DBMS
 
 - 🔭 I’m currently working on web development 
 - 🌱 I’m currently learning react  
