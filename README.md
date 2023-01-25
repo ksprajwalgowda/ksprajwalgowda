@@ -1,22 +1,17 @@
 ### Hi there 👋, my name is K S Prajwal
-#### Future full-stack developer
+#### full-stack developer
 
 <hr>
 
 This is KS Prajwal, a passionate front-end, and back-end developer, who is in love with python and is ready to work on any project in python
 
-Skills: JS / HTML / CSS / BOOTSTRAP / DJANGO / MYSQL / PYTHON / JAVA / C++ / C / PHP / JSP / DBMS
+Skills: JS / HTML / CSS / BOOTSTRAP / DJANGO / MYSQL / PYTHON / JAVA / C++ / C / PHP / POSTGRES / DBMS / DOCKER / PHP /
 
 - 🔭 I’m currently working on web development 
 - 🌱 I’m currently learning react  
 - 👯 I’m looking to collaborate on any project on web development and python 
 - 📫 How to reach me: ksprajwal35@gmail.com 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ksprajwalgowda&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ksprajwalgowda)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksprajwalgowda)](https://github.com/ksprajwalgowda)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ksprajwalgowda)](https://github.com/ksprajwalgowda?tab=repositories)
 
